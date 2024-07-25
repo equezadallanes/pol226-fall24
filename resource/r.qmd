@@ -1,0 +1,8 @@
+---
+title: Installing R
+---
+
+Jk, there's a guide in the book. It's the reading assignment for Friday, September 1st.
+
+
+

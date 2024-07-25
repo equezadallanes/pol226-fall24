@@ -1,0 +1,36 @@
+---
+title: "Week 5: Working with Survey Data"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 5 - Working with Survey Data
+
+:::
+
+[//]: <> (Need to write intro)
+
+
+### Monday, September 23
+
+- *DASS.* Chapter 3: pp. 51-54.
+
+
+
+### Wednesday, September 25
+
+- *DASS.* Chapter 3: pp. 55-66.
+
+
+### Friday, September 27
+
+- No reading
+
+:::{.callout-important}
+
+### Deadline
+
+[Problem Set 3](/assignment/pset3.qmd) due Friday, September 27, at 9:40 am on Canvas
+
+:::
+

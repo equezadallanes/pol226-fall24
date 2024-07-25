@@ -1,0 +1,38 @@
+---
+title: "Week 4: How Experiments Work"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 4 - How Experiments Work
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+### Monday, September 16
+
+- *DASS.* Chapter 2: pp. 27-38.
+
+
+
+### Wednesday, September 18
+
+- *DASS.* Chapter 2: pp. 39-50.
+
+
+### Friday, September 20
+
+- No reading.
+
+
+:::{.callout-important}
+
+### Deadline
+
+[Problem Set 2](/assignment/pset2.qmd) due Friday, September 20, at 9:40 am on Canvas
+
+:::
+
+ 

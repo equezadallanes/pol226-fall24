@@ -1,0 +1,50 @@
+---
+title: "Problem Set 2"
+---
+
+:::{.callout-important}
+UPDATED: Due September 15th at 11:59 pm on Canvas
+:::
+
+Problem Set 2 is posted on Canvas. You have two options for how to complete the assignment.
+
+1. Type up your answers in a text processor and write your code in an R script. Submit a PDF of the answers as well as your Rscript (2 files).
+2. Use the RMarkdown file provided (.Rmd extension) and write your answers and code in the spaces provided. Submit the PDF that is "knitted" (1 file).^[This route requires a few more tools. You need to install [RMarkdown](https://rmarkdown.rstudio.com/lesson-1.html) and [TinyTeX](https://yihui.org/tinytex/). The upside? You can produce beautiful documents that show your code and output.]
+
+
+
+## Purpose
+
+This second problem set will help you practice:
+
+1. Setting the working directory
+2. Loading data into R
+3. Computing and interpreting the mean of a variable
+4. Identifying treatment and outcome variables in a dataset
+
+
+You will use the following commands:
+
+```{r, eval=FALSE}
+
+# From the previous problem set
+setwd()
+
+read.csv()
+
+# New in this problem set
+mean()
+
+```
+
+
+
+## Criteria for success
+
+In addition to providing the correct code and/or answer, a successful problem set will:
+
+1. Have clear explanations that demonstrate your knowledge of the material
+2. Use the "comment out" function to explain what the code is doing
+
+
+

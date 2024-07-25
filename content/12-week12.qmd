@@ -1,0 +1,42 @@
+---
+title: "Week 12: Probability"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 12 - Probability
+
+:::
+
+[//]: <> (Need to write intro)
+
+
+
+### Monday, November 11
+
+- *DASS.* Chapter 6: pp. 179-183.
+
+
+
+### Wednesday, November 13
+
+- *DASS.* Chapter 6: pp. 183-189.
+
+
+
+### Friday, November 15
+
+- No assigned reading
+
+:::{.callout-important}
+
+### Deadline
+
+[Problem Set 8](/assignment/pset8.qmd) due Friday, November 15, at 9:40 am on Canvas
+
+:::
+
+
+
+
+ 

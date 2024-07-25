@@ -1,0 +1,28 @@
+---
+title: "Week 2: Philosophy of Science"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 2 - Philosophy of Science
+
+:::
+
+### Monday, September 2
+
+NO CLASS. Labor Day Holiday.
+
+
+### Wednesday, September 4
+
+- Russell, Bertrand. 1912 [2001]. "On Induction." In *Philosophy of Science: Contemporary Readings*, eds. Yuri Balashov and Alex Rosenberg, 289-93. London/New York: Routledge. {{< fa file-pdf >}} available on Canvas.
+
+- Popper, Karl. 1963 [2001]. "Science: Conjectures and Refutations." In *Philosophy of Science: Contemporary Readings*, eds. Yuri Balashov and Alex Rosenberg, 294-301. London/New York: Routledge. {{< fa file-pdf >}} available on Canvas.
+
+ 
+### Friday, September 6
+
+- Install R (in class)
+- *DASS.* Chapter 1: pp. 7-14 (stop when you reach section 1.7).
+
+

@@ -1,0 +1,36 @@
+---
+title: "Week 3: R 101 and Data Structure"
+---
+
+::: {.content-visible when-format="pdf"}
+
+## Week 3 - R 101 and Data Structure
+
+:::
+
+
+[//]: <> (Need to write intro)
+
+### Monday, September 9
+
+- *DASS.* Chapter 1: pp. 14-21 (stop when you reach section 1.8).
+
+
+
+### Wednesday, September 11
+
+- *DASS.* Chapter 1: pp. 21-26.
+ 
+
+### Friday, September 13
+
+- No reading.
+
+:::{.callout-important}
+
+### Deadline
+
+[Problem Set 1](/assignment/pset1.qmd) due Friday, September 13, at 9:40 am on Canvas
+
+:::
+
