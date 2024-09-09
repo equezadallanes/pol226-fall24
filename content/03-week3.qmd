@@ -30,7 +30,7 @@ title: "Week 3: R 101 and Data Structure"
 
 ### Deadline
 
-[Problem Set 1](/assignment/pset1.qmd) due Friday, September 13, at 9:40 am on Canvas
+[Problem Set 1](/assignment/pset1.qmd) due Friday, September 13, at 9:30 am on Canvas
 
 :::
 
