@@ -4,775 +4,455 @@
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "Here you can find the schedule for the semester with links to the list of readings for each week and some notes on the material. In addition you’ll find the due dates for the assignments in this course.\nNote that there are problem sets due on a (mostly) weekly basis. I encourage you to start working on these early in the week so that if you are stuck you can talk to your classmates or come to office hours.\nHere’s a guide to the schedule:\n\nMaterials (): This page contains the readings and other information (if any) for each topic.\nAssignment (): This page contains the instructions for each assignment.\n\n\n\n\n\nDate\n\n\nTitle\n\n\nMaterials\n\n\nAssignment\n\n\n\n\n\n\nWeek 1\n\n\n\n\nAugust 28\n\n\nIntroduction and Philosophy of Science\n\n\n\n\n\n\n\n\n\n\nAugust 30\n\n\nPhilosophy of Science\n\n\n\n\n\n\n\n\n\n\nWeek 2\n\n\n\n\nSeptember 2\n\n\nNO CLASS. Labor Day Holiday.\n\n\n\n\n\n\n\n\n\n\nSeptember 4\n\n\nPhilosophy of Science\n\n\n\n\n\n\n\n\n\n\nSeptember 6\n\n\nInstalling R\n\n\n\n\n\n\n\n\n\n\nWeek 3\n\n\n\n\nSeptember 9\n\n\nR101\n\n\n\n\n\n\n\n\n\n\nSeptember 11\n\n\nR101\n\n\n\n\n\n\n\n\n\n\nSeptember 13\n\n\nProblem Set 1 Due  (submit by 09:40:00)\n\n\n\n\n\n\n\n\n\n\nWeek 4\n\n\n\n\nSeptember 16\n\n\nHow Experiments Work\n\n\n\n\n\n\n\n\n\n\nSeptember 18\n\n\nHow Experiments Work\n\n\n\n\n\n\n\n\n\n\nSeptember 20\n\n\nProblem Set 2 Due  (submit by 09:40:00)\n\n\n\n\n\n\n\n\n\n\nWeek 5\n\n\n\n\nSeptember 23\n\n\nWorking with Survey Data\n\n\n\n\n\n\n\n\n\n\nSeptember 25\n\n\nWorking with Survey Data\n\n\n\n\n\n\n\n\n\n\nSeptember 27\n\n\nProblem Set 3 Due  (submit by 09:40:00)\n\n\n\n\n\n\n\n\n\n\nWeek 6\n\n\n\n\nSeptember 30\n\n\nWorking with Survey Data\n\n\n\n\n\n\n\n\n\n\nOctober 2\n\n\nWorking with Survey Data\n\n\n\n\n\n\n\n\n\n\nOctober 4\n\n\nProblem Set 4 Due  (submit by 09:40:00)\n\n\n\n\n\n\n\n\n\n\nWeek 7\n\n\n\n\nOctober 7\n\n\nMidterm Review\n\n\n\n\n\n\n\n\n\n\nOctober 9\n\n\nMidterm Exam\n\n\n\n\n\n\n\n\n\n\nOctober 11\n\n\nNO CLASS. Tentatively\n\n\n\n\n\n\n\n\n\n\nWeek 8\n\n\n\n\nOctober 14\n\n\nNO CLASS. Fall Break.\n\n\n\n\n\n\n\n\n\n\nOctober 16\n\n\nPredictions with Linear Regression\n\n\n\n\n\n\n\n\n\n\nOctober 18\n\n\nPredictions with Linear Regression\n\n\n\n\n\n\n\n\n\n\nWeek 9\n\n\n\n\nOctober 21\n\n\nPredictions with Linear Regression\n\n\n\n\n\n\n\n\n\n\nOctober 23\n\n\nPredictions with Linear Regression\n\n\n\n\n\n\n\n\n\n\nOctober 25\n\n\nProblem Set 5 Due  (submit by 09:40:00)\n\n\n\n\n\n\n\n\n\n\nWeek 10\n\n\n\n\nOctober 28\n\n\nObservational Studies\n\n\n\n\n\n\n\n\n\n\nOctober 30\n\n\nObservational Studies\n\n\n\n\n\n\n\n\n\n\nNovember 1\n\n\nProblem Set 6 Due  (submit by 09:40:00)\n\n\n\n\n\n\n\n\n\n\nWeek 11\n\n\n\n\nNovember 4\n\n\nProbability\n\n\n\n\n\n\n\n\n\n\nNovember 6\n\n\nProbability\n\n\n\n\n\n\n\n\n\n\nNovember 8\n\n\nProblem Set 7 Due  (submit by 09:40:00)\n\n\n\n\n\n\n\n\n\n\nWeek 12\n\n\n\n\nNovember 11\n\n\nProbability\n\n\n\n\n\n\n\n\n\n\nNovember 13\n\n\nProbability\n\n\n\n\n\n\n\n\n\n\nNovember 15\n\n\nProblem Set 8 Due  (submit by 09:40:00)\n\n\n\n\n\n\n\n\n\n\nWeek 13\n\n\n\n\nNovember 18\n\n\nHow Certain Are We?\n\n\n\n\n\n\n\n\n\n\nNovember 20\n\n\nHow Certain Are We?\n\n\n\n\n\n\n\n\n\n\nNovember 22\n\n\nProblem Set 9 Due  (submit by 09:40:00)\n\n\n\n\n\n\n\n\n\n\nWeek 14\n\n\n\n\nNovember 25\n\n\nHow Certain Are We?\n\n\n\n\n\n\n\n\n\n\nNovember 27–November 29\n\n\nThanksgiving Break\n\n\n\n\n\n\n\n\n\n\nWeek 15\n\n\n\n\nDecember 2\n\n\nHow Certain Are We?\n\n\n\n\n\n\n\n\n\n\nDecember 4\n\n\nHow Certain Are We?\n\n\n\n\n\n\n\n\n\n\nDecember 6\n\n\nExtra Credit Problem Set Due  (submit by 09:40:00)\n\n\n\n\n\n\n\n\n\n\nWeek 16\n\n\n\n\nDecember 9\n\n\nProblem set review\n\n\n\n\n\n\n\n\n\n\nDecember 11\n\n\nFinal exam review\n\n\n\n\n\n\n\n\n\n\nWeek 17\n\n\n\n\nDecember 13–December 18\n\n\nFinal exam"
+    "text": "Here you can find the schedule for the semester with links to the list of readings for each week and some notes on the material. In addition you’ll find the due dates for the assignments in this course.\nNote that there are problem sets due on a (mostly) weekly basis. I encourage you to start working on these early in the week so that if you are stuck you can talk to your classmates or come to office hours.\nHere’s a guide to the schedule:\n\nMaterials (): This page contains the readings and other information (if any) for each topic.\nAssignment (): This page contains the instructions for each assignment.\n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nMaterials\n\n\nAssignment\n\n\n\n\n\n\nWeek 1\n\n\n\n\nAugust 28\n\n\nIntroduction and Philosophy of Science\n\n\n\n\n\n\n\n\n\n\nAugust 30\n\n\nPhilosophy of Science\n\n\n\n\n\n\n\n\n\n\nWeek 2\n\n\n\n\nSeptember 2\n\n\nNO CLASS. Labor Day Holiday.\n\n\n\n\n\n\n\n\n\n\nSeptember 4\n\n\nPhilosophy of Science\n\n\n\n\n\n\n\n\n\n\nSeptember 6\n\n\nInstalling R\n\n\n\n\n\n\n\n\n\n\nWeek 3\n\n\n\n\nSeptember 9\n\n\nR101\n\n\n\n\n\n\n\n\n\n\nSeptember 11\n\n\nR101\n\n\n\n\n\n\n\n\n\n\nSeptember 13\n\n\nProblem Set 1 Due  (submit by 09:40:00)\n\n\n\n\n\n\n\n\n\n\nWeek 4\n\n\n\n\nSeptember 16\n\n\nHow Experiments Work\n\n\n\n\n\n\n\n\n\n\nSeptember 18\n\n\nHow Experiments Work\n\n\n\n\n\n\n\n\n\n\nSeptember 20\n\n\nProblem Set 2 Due  (submit by 09:40:00)\n\n\n\n\n\n\n\n\n\n\nWeek 5\n\n\n\n\nSeptember 23\n\n\nWorking with Survey Data\n\n\n\n\n\n\n\n\n\n\nSeptember 25\n\n\nWorking with Survey Data\n\n\n\n\n\n\n\n\n\n\nSeptember 27\n\n\nProblem Set 3 Due  (submit by 09:40:00)\n\n\n\n\n\n\n\n\n\n\nWeek 6\n\n\n\n\nSeptember 30\n\n\nWorking with Survey Data\n\n\n\n\n\n\n\n\n\n\nOctober 2\n\n\nWorking with Survey Data\n\n\n\n\n\n\n\n\n\n\nOctober 4\n\n\nProblem Set 4 Due  (submit by 09:40:00)\n\n\n\n\n\n\n\n\n\n\nWeek 7\n\n\n\n\nOctober 7\n\n\nMidterm Review\n\n\n\n\n\n\n\n\n\n\nOctober 9\n\n\nMidterm Exam\n\n\n\n\n\n\n\n\n\n\nOctober 11\n\n\nNO CLASS. Tentatively\n\n\n\n\n\n\n\n\n\n\nWeek 8\n\n\n\n\nOctober 14\n\n\nNO CLASS. Fall Break.\n\n\n\n\n\n\n\n\n\n\nOctober 16\n\n\nPredictions with Linear Regression\n\n\n\n\n\n\n\n\n\n\nOctober 18\n\n\nPredictions with Linear Regression\n\n\n\n\n\n\n\n\n\n\nWeek 9\n\n\n\n\nOctober 21\n\n\nPredictions with Linear Regression\n\n\n\n\n\n\n\n\n\n\nOctober 23\n\n\nPredictions with Linear Regression\n\n\n\n\n\n\n\n\n\n\nOctober 25\n\n\nProblem Set 5 Due  (submit by 09:40:00)\n\n\n\n\n\n\n\n\n\n\nWeek 10\n\n\n\n\nOctober 28\n\n\nObservational Studies\n\n\n\n\n\n\n\n\n\n\nOctober 30\n\n\nObservational Studies\n\n\n\n\n\n\n\n\n\n\nNovember 1\n\n\nProblem Set 6 Due  (submit by 09:40:00)\n\n\n\n\n\n\n\n\n\n\nWeek 11\n\n\n\n\nNovember 4\n\n\nProbability\n\n\n\n\n\n\n\n\n\n\nNovember 6\n\n\nProbability\n\n\n\n\n\n\n\n\n\n\nNovember 8\n\n\nProblem Set 7 Due  (submit by 09:40:00)\n\n\n\n\n\n\n\n\n\n\nWeek 12\n\n\n\n\nNovember 11\n\n\nProbability\n\n\n\n\n\n\n\n\n\n\nNovember 13\n\n\nProbability\n\n\n\n\n\n\n\n\n\n\nNovember 15\n\n\nProblem Set 8 Due  (submit by 09:40:00)\n\n\n\n\n\n\n\n\n\n\nWeek 13\n\n\n\n\nNovember 18\n\n\nHow Certain Are We?\n\n\n\n\n\n\n\n\n\n\nNovember 20\n\n\nHow Certain Are We?\n\n\n\n\n\n\n\n\n\n\nNovember 22\n\n\nProblem Set 9 Due  (submit by 09:40:00)\n\n\n\n\n\n\n\n\n\n\nWeek 14\n\n\n\n\nNovember 25\n\n\nHow Certain Are We?\n\n\n\n\n\n\n\n\n\n\nNovember 27–November 29\n\n\nThanksgiving Break\n\n\n\n\n\n\n\n\n\n\nWeek 15\n\n\n\n\nDecember 2\n\n\nHow Certain Are We?\n\n\n\n\n\n\n\n\n\n\nDecember 4\n\n\nHow Certain Are We?\n\n\n\n\n\n\n\n\n\n\nDecember 6\n\n\nExtra Credit Problem Set Due  (submit by 09:40:00)\n\n\n\n\n\n\n\n\n\n\nWeek 16\n\n\n\n\nDecember 9\n\n\nProblem set review\n\n\n\n\n\n\n\n\n\n\nDecember 11\n\n\nFinal exam review\n\n\n\n\n\n\n\n\n\n\nWeek 17\n\n\n\n\nDecember 13–December 18\n\n\nFinal exam"
   },
   {
     "objectID": "resource/reading.html",
     "href": "resource/reading.html",
     "title": "Reading Political Science",
     "section": "",
-    "text": "For this course, you will be required to read journal articles and book chapters that political scientists write for other political scientists (or other social scientists). Even beyond this course, you have probably already encountered academic texts that are different from that which you find in popular media.\nThe following two readings can help you read these pieces more efficiently.\n\nBurke, Timothy. “How to Read in College.” Blog post. \nHoover Green, Amelia. 2013. “How to Read Political Science: A Guide in Four Steps.”",
-    "crumbs": [
-      "Resources",
-      "Overview",
-      "Reading Political Science"
-    ]
+    "text": "For this course, you will be required to read journal articles and book chapters that political scientists write for other political scientists (or other social scientists). Even beyond this course, you have probably already encountered academic texts that are different from that which you find in popular media.\nThe following two readings can help you read these pieces more efficiently.\n\nBurke, Timothy. “How to Read in College.” Blog post. \nHoover Green, Amelia. 2013. “How to Read Political Science: A Guide in Four Steps.”"
   },
   {
     "objectID": "resource/website.html",
     "href": "resource/website.html",
     "title": "This Course and Website",
     "section": "",
-    "text": "This course relies on the materials created and used by Elena Llaudet (Boston University) for her textbook Data Analysis for Social Science (co-authored with Kosuke Imai).\nThis website was built using Quarto and RStudio, and is based on the course website by Andrew Heiss (at https://evalf22.classes.andrewheiss.com/) along with the changes made by Matt Blackwell (at https://gov50.mattblackwell.org).\nThe site is hosted on Github.",
-    "crumbs": [
-      "Resources",
-      "Overview",
-      "This Course and Website"
-    ]
+    "text": "This course relies on the materials created and used by Elena Llaudet (Boston University) for her textbook Data Analysis for Social Science (co-authored with Kosuke Imai).\nThis website was built using Quarto and RStudio, and is based on the course website by Andrew Heiss (at https://evalf22.classes.andrewheiss.com/) along with the changes made by Matt Blackwell (at https://gov50.mattblackwell.org).\nThe site is hosted on Github."
   },
   {
     "objectID": "assignment/pset8.html",
     "href": "assignment/pset8.html",
     "title": "Problem Set 8",
     "section": "",
-    "text": "Important\n\n\n\nDue November 10th at 11:59 am on Canvas\nProblem Set 8 is posted on Canvas. You can either use the provided RMarkdown file to complete this problem set or fill it out by hand and submit on Canvas.\nIf you have any issues using RMarkdown please see me in my office so we can make sure you can knit the file on your computer.",
-    "crumbs": [
-      "Assignments",
-      "Problem Sets",
-      "Problem Set 8"
-    ]
+    "text": "Important\n\n\n\nDue November 10th at 11:59 am on Canvas\nProblem Set 8 is posted on Canvas. You can either use the provided RMarkdown file to complete this problem set or fill it out by hand and submit on Canvas.\nIf you have any issues using RMarkdown please see me in my office so we can make sure you can knit the file on your computer."
   },
   {
     "objectID": "assignment/pset8.html#purpose",
     "href": "assignment/pset8.html#purpose",
     "title": "Problem Set 8",
     "section": "Purpose",
-    "text": "Purpose\nThis problem set will help you asses your knowledge about:\n\nRandom variables\nBernoulli and normal distributions\nMathematical notation of probability distributions\nSample variability\nThe Law of Large Numbers and the Central Limit Theorem",
-    "crumbs": [
-      "Assignments",
-      "Problem Sets",
-      "Problem Set 8"
-    ]
+    "text": "Purpose\nThis problem set will help you asses your knowledge about:\n\nRandom variables\nBernoulli and normal distributions\nMathematical notation of probability distributions\nSample variability\nThe Law of Large Numbers and the Central Limit Theorem"
   },
   {
     "objectID": "assignment/midterm.html",
     "href": "assignment/midterm.html",
     "title": "Midterm Exam",
     "section": "",
-    "text": "Important\n\n\n\nDue November 20th at 10:30 am on Canvas",
-    "crumbs": [
-      "Assignments",
-      "Exams",
-      "Midterm Exam"
-    ]
+    "text": "Important\n\n\n\nDue November 20th at 10:30 am on Canvas"
   },
   {
     "objectID": "assignment/midterm.html#purpose",
     "href": "assignment/midterm.html#purpose",
     "title": "Midterm Exam",
     "section": "Purpose",
-    "text": "Purpose",
-    "crumbs": [
-      "Assignments",
-      "Exams",
-      "Midterm Exam"
-    ]
+    "text": "Purpose"
   },
   {
     "objectID": "assignment/midterm.html#task",
     "href": "assignment/midterm.html#task",
     "title": "Midterm Exam",
     "section": "Task",
-    "text": "Task",
-    "crumbs": [
-      "Assignments",
-      "Exams",
-      "Midterm Exam"
-    ]
+    "text": "Task"
   },
   {
     "objectID": "assignment/midterm.html#criteria-for-success",
     "href": "assignment/midterm.html#criteria-for-success",
     "title": "Midterm Exam",
     "section": "Criteria for success",
-    "text": "Criteria for success\nIn addition to providing the correct code and/or answer, a successful problem set will:\n\nHave clear explanations that demonstrate your knowledge of the material\nUse the “comment out” function to explain what the code is doing",
-    "crumbs": [
-      "Assignments",
-      "Exams",
-      "Midterm Exam"
-    ]
+    "text": "Criteria for success\nIn addition to providing the correct code and/or answer, a successful problem set will:\n\nHave clear explanations that demonstrate your knowledge of the material\nUse the “comment out” function to explain what the code is doing"
   },
   {
     "objectID": "assignment/index.html",
     "href": "assignment/index.html",
     "title": "Assignments",
     "section": "",
-    "text": "All of the problem sets will be made available on Canvas. In this website, you can be reminded of the deadlines as well as the skills that problem set will help you practice.\nThe midterm and final exam assignments will be posted here later in the semester.",
-    "crumbs": [
-      "Assignments",
-      "Overview",
-      "Assignments"
-    ]
+    "text": "All of the problem sets will be made available on Canvas. In this website, you can be reminded of the deadlines as well as the skills that problem set will help you practice.\nThe midterm and final exam assignments will be posted here later in the semester."
   },
   {
     "objectID": "assignment/pset1.html",
     "href": "assignment/pset1.html",
     "title": "Problem Set 1",
     "section": "",
-    "text": "Important\n\n\n\nDue September 13th at 9:30 am on Canvas\nProblem Set 1 is posted on Canvas.",
-    "crumbs": [
-      "Assignments",
-      "Problem Sets",
-      "Problem Set 1"
-    ]
+    "text": "Important\n\n\n\nUPDATED: Due September 13th at 11:59 pm on Canvas\nProblem Set 1 is posted on Canvas."
   },
   {
     "objectID": "assignment/pset1.html#purpose",
     "href": "assignment/pset1.html#purpose",
     "title": "Problem Set 1",
     "section": "Purpose",
-    "text": "Purpose\nThis first problem set will help you practice:\n\nSetting the working directory\nLoading data into R\nViewing and understanding observations from the dataset\nIdentifying the type of variables you are working with\n\nYou will use the following commands:\n\nsetwd()\n\nread.csv()\n\nhead()\n\ndim()",
-    "crumbs": [
-      "Assignments",
-      "Problem Sets",
-      "Problem Set 1"
-    ]
+    "text": "Purpose\nThis first problem set will help you practice:\n\nSetting the working directory\nLoading data into R\nViewing and understanding observations from the dataset\nIdentifying the type of variables you are working with\n\nYou will use the following commands:\n\nsetwd()\n\nread.csv()\n\nhead()\n\ndim()"
   },
   {
     "objectID": "assignment/pset1.html#criteria-for-success",
     "href": "assignment/pset1.html#criteria-for-success",
     "title": "Problem Set 1",
     "section": "Criteria for success",
-    "text": "Criteria for success\nIn addition to providing the correct code and/or answer, a successful problem set will:\n\nHave clear explanations that demonstrate your knowledge of the material\nUse the “comment out” function to explain what the code is doing",
-    "crumbs": [
-      "Assignments",
-      "Problem Sets",
-      "Problem Set 1"
-    ]
+    "text": "Criteria for success\nIn addition to providing the correct code and/or answer, a successful problem set will:\n\nHave clear explanations that demonstrate your knowledge of the material\nUse the “comment out” function to explain what the code is doing"
   },
   {
     "objectID": "assignment/pset-extra.html",
     "href": "assignment/pset-extra.html",
     "title": "Problem Set - Extra Credit",
     "section": "",
-    "text": "Important\n\n\n\nUPDATED: Due December 4th at 10:30 am on Canvas\nThe extra credit problem set is posted on Canvas. If you have any issues using RMarkdown please see me in my office so we can make sure you can knit the file on your computer.",
-    "crumbs": [
-      "Assignments",
-      "Problem Sets",
-      "Problem Set - Extra Credit"
-    ]
+    "text": "Important\n\n\n\nUPDATED: Due December 4th at 10:30 am on Canvas\nThe extra credit problem set is posted on Canvas. If you have any issues using RMarkdown please see me in my office so we can make sure you can knit the file on your computer."
   },
   {
     "objectID": "assignment/pset-extra.html#purpose",
     "href": "assignment/pset-extra.html#purpose",
     "title": "Problem Set - Extra Credit",
     "section": "Purpose",
-    "text": "Purpose\nThis problem set will help you asses your knowledge about:\n\nEstimating average treatment effects with linear regression\nAssess the statistical significance of the results\nEvaluate the internal and external validity of a study",
-    "crumbs": [
-      "Assignments",
-      "Problem Sets",
-      "Problem Set - Extra Credit"
-    ]
+    "text": "Purpose\nThis problem set will help you asses your knowledge about:\n\nEstimating average treatment effects with linear regression\nAssess the statistical significance of the results\nEvaluate the internal and external validity of a study"
   },
   {
     "objectID": "assignment/pset-extra.html#criteria-for-success",
     "href": "assignment/pset-extra.html#criteria-for-success",
     "title": "Problem Set - Extra Credit",
     "section": "Criteria for success",
-    "text": "Criteria for success\nIn addition to providing the correct code and/or answer, a successful problem set will:\n\nHave clear explanations that demonstrate your knowledge of the material\nUse the “comment out” function to explain what the code is doing",
-    "crumbs": [
-      "Assignments",
-      "Problem Sets",
-      "Problem Set - Extra Credit"
-    ]
+    "text": "Criteria for success\nIn addition to providing the correct code and/or answer, a successful problem set will:\n\nHave clear explanations that demonstrate your knowledge of the material\nUse the “comment out” function to explain what the code is doing"
   },
   {
     "objectID": "assignment/pset5.html",
     "href": "assignment/pset5.html",
     "title": "Problem Set 5",
     "section": "",
-    "text": "Important\n\n\n\nDue October 20th at 11:59 pm on Canvas\nProblem Set 5 is posted on Canvas. You must use the provided RMarkdown file to complete this problem set.\nIf you have any issues using RMarkdown please see me in my office so we can make sure you can knit the file on your computer.",
-    "crumbs": [
-      "Assignments",
-      "Problem Sets",
-      "Problem Set 5"
-    ]
+    "text": "Important\n\n\n\nDue October 20th at 11:59 pm on Canvas\nProblem Set 5 is posted on Canvas. You must use the provided RMarkdown file to complete this problem set.\nIf you have any issues using RMarkdown please see me in my office so we can make sure you can knit the file on your computer."
   },
   {
     "objectID": "assignment/pset5.html#purpose",
     "href": "assignment/pset5.html#purpose",
     "title": "Problem Set 5",
     "section": "Purpose",
-    "text": "Purpose\nThis fourth problem set will help you practice:\n\nUnderstanding the components of a linear regression model\nRunning a linear regression model in R\nInterpreting the output of the lm() function\n\nYou will use the following commands:\n\n# From the previous problem sets\nread.csv()\n\nplot()\n\ncor()\n\n# New in this problem set\n\nlm()",
-    "crumbs": [
-      "Assignments",
-      "Problem Sets",
-      "Problem Set 5"
-    ]
+    "text": "Purpose\nThis fourth problem set will help you practice:\n\nUnderstanding the components of a linear regression model\nRunning a linear regression model in R\nInterpreting the output of the lm() function\n\nYou will use the following commands:\n\n# From the previous problem sets\nread.csv()\n\nplot()\n\ncor()\n\n# New in this problem set\n\nlm()"
   },
   {
     "objectID": "assignment/pset5.html#criteria-for-success",
     "href": "assignment/pset5.html#criteria-for-success",
     "title": "Problem Set 5",
     "section": "Criteria for success",
-    "text": "Criteria for success\nIn addition to providing the correct code and/or answer, a successful problem set will:\n\nHave clear explanations that demonstrate your knowledge of the material\nUse the “comment out” function to explain what the code is doing",
-    "crumbs": [
-      "Assignments",
-      "Problem Sets",
-      "Problem Set 5"
-    ]
+    "text": "Criteria for success\nIn addition to providing the correct code and/or answer, a successful problem set will:\n\nHave clear explanations that demonstrate your knowledge of the material\nUse the “comment out” function to explain what the code is doing"
   },
   {
     "objectID": "assignment/pset5.html#footnotes",
     "href": "assignment/pset5.html#footnotes",
     "title": "Problem Set 5",
     "section": "Footnotes",
-    "text": "Footnotes\n\n\nThis route requires a few more tools. You need to install RMarkdown and TinyTeX. The upside? You can produce beautiful documents that show your code and output.↩︎",
-    "crumbs": [
-      "Assignments",
-      "Problem Sets",
-      "Problem Set 5"
-    ]
+    "text": "Footnotes\n\n\nThis route requires a few more tools. You need to install RMarkdown and TinyTeX. The upside? You can produce beautiful documents that show your code and output.↩︎"
   },
   {
     "objectID": "assignment/pset6.html",
     "href": "assignment/pset6.html",
     "title": "Problem Set 6",
     "section": "",
-    "text": "Important\n\n\n\nDue October 27th at 11:59 pm on Canvas\nProblem Set 5 is posted on Canvas. You must use the provided RMarkdown file to complete this problem set.\nIf you have any issues using RMarkdown please see me in my office so we can make sure you can knit the file on your computer.",
-    "crumbs": [
-      "Assignments",
-      "Problem Sets",
-      "Problem Set 6"
-    ]
+    "text": "Important\n\n\n\nDue October 27th at 11:59 pm on Canvas\nProblem Set 5 is posted on Canvas. You must use the provided RMarkdown file to complete this problem set.\nIf you have any issues using RMarkdown please see me in my office so we can make sure you can knit the file on your computer."
   },
   {
     "objectID": "assignment/pset6.html#purpose",
     "href": "assignment/pset6.html#purpose",
     "title": "Problem Set 6",
     "section": "Purpose",
-    "text": "Purpose\nThis fourth problem set will help you practice:\n\nUnderstanding the components of a linear regression model\nRunning a linear regression model in R\nInterpreting the output of the lm() function\n\nYou will use the following commands:\n\n# From the previous problem sets\nread.csv()\nlm()",
-    "crumbs": [
-      "Assignments",
-      "Problem Sets",
-      "Problem Set 6"
-    ]
+    "text": "Purpose\nThis fourth problem set will help you practice:\n\nUnderstanding the components of a linear regression model\nRunning a linear regression model in R\nInterpreting the output of the lm() function\n\nYou will use the following commands:\n\n# From the previous problem sets\nread.csv()\nlm()"
   },
   {
     "objectID": "assignment/pset6.html#criteria-for-success",
     "href": "assignment/pset6.html#criteria-for-success",
     "title": "Problem Set 6",
     "section": "Criteria for success",
-    "text": "Criteria for success\nIn addition to providing the correct code and/or answer, a successful problem set will:\n\nHave clear explanations that demonstrate your knowledge of the material\nUse the “comment out” function to explain what the code is doing",
-    "crumbs": [
-      "Assignments",
-      "Problem Sets",
-      "Problem Set 6"
-    ]
+    "text": "Criteria for success\nIn addition to providing the correct code and/or answer, a successful problem set will:\n\nHave clear explanations that demonstrate your knowledge of the material\nUse the “comment out” function to explain what the code is doing"
   },
   {
     "objectID": "assignment/pset6.html#footnotes",
     "href": "assignment/pset6.html#footnotes",
     "title": "Problem Set 6",
     "section": "Footnotes",
-    "text": "Footnotes\n\n\nThis route requires a few more tools. You need to install RMarkdown and TinyTeX. The upside? You can produce beautiful documents that show your code and output.↩︎",
-    "crumbs": [
-      "Assignments",
-      "Problem Sets",
-      "Problem Set 6"
-    ]
+    "text": "Footnotes\n\n\nThis route requires a few more tools. You need to install RMarkdown and TinyTeX. The upside? You can produce beautiful documents that show your code and output.↩︎"
   },
   {
     "objectID": "content/13-week13.html",
     "href": "content/13-week13.html",
     "title": "Week 13: Dealing with Uncertainty",
     "section": "",
-    "text": "Monday, November 18\n\nDASS. Chapter 7: pp. 196-203.\n\n\n\nWednesday, November 20\n\nDASS. Chapter 7: pp. 202-211.\n\n\n\nFriday, November 22\n\nNo assigned reading\n\n\n\n\n\n\n\nDeadline\n\n\n\nProblem Set 9 due Friday, November 15, at 9:40 am on Canvas",
-    "crumbs": [
-      "Content",
-      "Week",
-      "Week 13: Dealing with Uncertainty"
-    ]
+    "text": "Monday, November 18\n\nDASS. Chapter 7: pp. 196-203.\n\n\n\nWednesday, November 20\n\nDASS. Chapter 7: pp. 202-211.\n\n\n\nFriday, November 22\n\nNo assigned reading\n\n\n\n\n\n\n\nDeadline\n\n\n\nProblem Set 9 due Friday, November 15, at 9:40 am on Canvas"
   },
   {
     "objectID": "content/01-week1.html",
     "href": "content/01-week1.html",
     "title": "Week 1: Introduction to Scientific Inquiry",
     "section": "",
-    "text": "During the first week, we will discuss the syllabus and talk about what it means for political science (or any social science, for that matter) to be a science.\n\nWednesday, August 28\n\nSyllabus\nData Analysis for Social Science (from now on DASS). Chapter 1: pp. 1-6.  available on Canvas, only for the first chapter.\n\n PDF of slides \n\n\nFriday, August 30\n\nGary King, Robert O. Keohane, and Sidney Verba. 1994. Designing Social Inquiry: Scientific Inference in Qualitative Research. Princeton: Princeton University Press. Chapter 1: pp 3-19 (stop at section 1.2.2). \n\n PDF of slides",
-    "crumbs": [
-      "Content",
-      "Week",
-      "Week 1: Introduction to Scientific Inquiry"
-    ]
+    "text": "During the first week, we will discuss the syllabus and talk about what it means for political science (or any social science, for that matter) to be a science.\n\nWednesday, August 28\n\nSyllabus\nData Analysis for Social Science (from now on DASS). Chapter 1: pp. 1-6.  available on Canvas, only for the first chapter.\n\n PDF of slides \n\n\nFriday, August 30\n\nGary King, Robert O. Keohane, and Sidney Verba. 1994. Designing Social Inquiry: Scientific Inference in Qualitative Research. Princeton: Princeton University Press. Chapter 1: pp 3-19 (stop at section 1.2.2). \n\n PDF of slides"
   },
   {
     "objectID": "content/14-week14.html",
     "href": "content/14-week14.html",
     "title": "Week 14: Dealing with Uncertainty and Thanksgiving Break",
     "section": "",
-    "text": "Monday, November 25\n\nDASS. Chapter 7: pp. 211-217.\n\n\n\nWednesday, November 27 - Friday, November 29\nNO CLASS. Thanksgiving break.",
-    "crumbs": [
-      "Content",
-      "Week",
-      "Week 14: Dealing with Uncertainty and Thanksgiving Break"
-    ]
+    "text": "Monday, November 25\n\nDASS. Chapter 7: pp. 211-217.\n\n\n\nWednesday, November 27 - Friday, November 29\nNO CLASS. Thanksgiving break."
   },
   {
     "objectID": "content/11-week11.html",
     "href": "content/11-week11.html",
     "title": "Week 11: Probability",
     "section": "",
-    "text": "Monday, November 4\n\nDASS. Chapter 6: pp. 162-169.\n\n\n\nWednesday, November 6\n\nDASS. Chapter 6: pp. 169-179.\n\n\n\nFriday, November 8\n\nNo assigned reading.\n\n\n\n\n\n\n\nDeadline\n\n\n\nProblem Set 7 due Friday, November 8, at 9:40 am on Canvas",
-    "crumbs": [
-      "Content",
-      "Week",
-      "Week 11: Probability"
-    ]
+    "text": "Monday, November 4\n\nDASS. Chapter 6: pp. 162-169.\n\n\n\nWednesday, November 6\n\nDASS. Chapter 6: pp. 169-179.\n\n\n\nFriday, November 8\n\nNo assigned reading.\n\n\n\n\n\n\n\nDeadline\n\n\n\nProblem Set 7 due Friday, November 8, at 9:40 am on Canvas"
   },
   {
     "objectID": "content/index.html",
     "href": "content/index.html",
     "title": "Content",
     "section": "",
-    "text": "In this section of the course website you can find materials for each topic we will cover in the course.",
-    "crumbs": [
-      "Content",
-      "Overview",
-      "Content"
-    ]
+    "text": "In this section of the course website you can find materials for each topic we will cover in the course."
   },
   {
     "objectID": "content/05-week5.html",
     "href": "content/05-week5.html",
     "title": "Week 5: Working with Survey Data",
     "section": "",
-    "text": "Monday, September 23\n\nDASS. Chapter 3: pp. 51-54.\n\n\n\nWednesday, September 25\n\nDASS. Chapter 3: pp. 55-66.\n\n\n\nFriday, September 27\n\nNo reading\n\n\n\n\n\n\n\nDeadline\n\n\n\nProblem Set 3 due Friday, September 27, at 9:40 am on Canvas",
-    "crumbs": [
-      "Content",
-      "Week",
-      "Week 5: Working with Survey Data"
-    ]
+    "text": "Monday, September 23\n\nDASS. Chapter 3: pp. 51-54.\n\n\n\nWednesday, September 25\n\nDASS. Chapter 3: pp. 55-66.\n\n\n\nFriday, September 27\n\nNo reading\n\n\n\n\n\n\n\nDeadline\n\n\n\nProblem Set 3 due Friday, September 27, at 9:40 am on Canvas"
   },
   {
     "objectID": "content/17-week17.html",
     "href": "content/17-week17.html",
     "title": "Week 17: Final Exam",
     "section": "",
-    "text": "Sometime between December 13 and 18.",
-    "crumbs": [
-      "Content",
-      "Week",
-      "Week 17: Final Exam"
-    ]
+    "text": "Sometime between December 13 and 18."
   },
   {
     "objectID": "content/15-week15.html",
     "href": "content/15-week15.html",
     "title": "Week 15: Dealing with Uncertainty",
     "section": "",
-    "text": "Monday, December 2\n\nDASS. Chapter 7: pp. 219-229.\n\n\n\nWednesday, December 4\n\nNo assigned reading.\n\n\n\nFriday, December 6\n\n\n\n\n\n\nDeadline\n\n\n\nExtra Credit Problem Set due Friday, December 6, at 9:40 am on Canvas",
-    "crumbs": [
-      "Content",
-      "Week",
-      "Week 15: Dealing with Uncertainty"
-    ]
+    "text": "Monday, December 2\n\nDASS. Chapter 7: pp. 219-229.\n\n\n\nWednesday, December 4\n\nNo assigned reading.\n\n\n\nFriday, December 6\n\n\n\n\n\n\nDeadline\n\n\n\nExtra Credit Problem Set due Friday, December 6, at 9:40 am on Canvas"
   },
   {
     "objectID": "content/10-week10.html",
     "href": "content/10-week10.html",
     "title": "Week 10: Observational Studies",
     "section": "",
-    "text": "Monday, October 28\n\nDASS. Chapter 5: pp. 129-134.\n\n\n\nWednesday, October 30\n\nDASS. Chapter 5: pp. 135-147.\n\n\n\nFriday, November 1\n\nDASS. Chapter 5: pp. 147-161.\n\n\n\n\n\n\n\nDeadline\n\n\n\nProblem Set 6 due Friday, October 25, at 9:40 am on Canvas",
-    "crumbs": [
-      "Content",
-      "Week",
-      "Week 10: Observational Studies"
-    ]
+    "text": "Monday, October 28\n\nDASS. Chapter 5: pp. 129-134.\n\n\n\nWednesday, October 30\n\nDASS. Chapter 5: pp. 135-147.\n\n\n\nFriday, November 1\n\nDASS. Chapter 5: pp. 147-161.\n\n\n\n\n\n\n\nDeadline\n\n\n\nProblem Set 6 due Friday, October 25, at 9:40 am on Canvas"
   },
   {
     "objectID": "content/02-week2.html",
     "href": "content/02-week2.html",
     "title": "Week 2: Philosophy of Science",
     "section": "",
-    "text": "Monday, September 2\nNO CLASS. Labor Day Holiday.\n\n\nWednesday, September 4\n\nRussell, Bertrand. 1912 [2001]. “On Induction.” In Philosophy of Science: Contemporary Readings, eds. Yuri Balashov and Alex Rosenberg, 289-93. London/New York: Routledge.  available on Canvas.\nPopper, Karl. 1963 [2001]. “Science: Conjectures and Refutations.” In Philosophy of Science: Contemporary Readings, eds. Yuri Balashov and Alex Rosenberg, 294-301. London/New York: Routledge.  available on Canvas.\n\n\n\nFriday, September 6\n\nInstall R (in class)\nDASS. Chapter 1: pp. 7-14 (stop when you reach section 1.7).",
-    "crumbs": [
-      "Content",
-      "Week",
-      "Week 2: Philosophy of Science"
-    ]
+    "text": "Monday, September 2\nNO CLASS. Labor Day Holiday.\n\n\nWednesday, September 4\n\nRussell, Bertrand. 1912 [2001]. “On Induction.” In Philosophy of Science: Contemporary Readings, eds. Yuri Balashov and Alex Rosenberg, 289-93. London/New York: Routledge.  available on Canvas.\nPopper, Karl. 1963 [2001]. “Science: Conjectures and Refutations.” In Philosophy of Science: Contemporary Readings, eds. Yuri Balashov and Alex Rosenberg, 294-301. London/New York: Routledge.  available on Canvas.\n\n PDF of slides \n\n\nFriday, September 6\n\nInstall R (in class)\nDASS. Chapter 1: pp. 7-14 (stop when you reach section 1.7)."
   },
   {
     "objectID": "content/04-week4.html",
     "href": "content/04-week4.html",
     "title": "Week 4: How Experiments Work",
     "section": "",
-    "text": "Monday, September 16\n\nDASS. Chapter 2: pp. 27-38.\n\n\n\nWednesday, September 18\n\nDASS. Chapter 2: pp. 39-50.\n\n\n\nFriday, September 20\n\nNo reading.\n\n\n\n\n\n\n\nDeadline\n\n\n\nProblem Set 2 due Friday, September 20, at 9:40 am on Canvas",
-    "crumbs": [
-      "Content",
-      "Week",
-      "Week 4: How Experiments Work"
-    ]
+    "text": "Monday, September 16\n\nDASS. Chapter 2: pp. 27-38.\n\n\n\nWednesday, September 18\n\nDASS. Chapter 2: pp. 39-50.\n\n\n\nFriday, September 20\n\nNo reading.\n\n\n\n\n\n\n\nDeadline\n\n\n\nProblem Set 2 due Friday, September 20, at 9:40 am on Canvas"
   },
   {
     "objectID": "content/12-week12.html",
     "href": "content/12-week12.html",
     "title": "Week 12: Probability",
     "section": "",
-    "text": "Monday, November 11\n\nDASS. Chapter 6: pp. 179-183.\n\n\n\nWednesday, November 13\n\nDASS. Chapter 6: pp. 183-189.\n\n\n\nFriday, November 15\n\nNo assigned reading\n\n\n\n\n\n\n\nDeadline\n\n\n\nProblem Set 8 due Friday, November 15, at 9:40 am on Canvas",
-    "crumbs": [
-      "Content",
-      "Week",
-      "Week 12: Probability"
-    ]
+    "text": "Monday, November 11\n\nDASS. Chapter 6: pp. 179-183.\n\n\n\nWednesday, November 13\n\nDASS. Chapter 6: pp. 183-189.\n\n\n\nFriday, November 15\n\nNo assigned reading\n\n\n\n\n\n\n\nDeadline\n\n\n\nProblem Set 8 due Friday, November 15, at 9:40 am on Canvas"
   },
   {
     "objectID": "content/03-week3.html",
     "href": "content/03-week3.html",
     "title": "Week 3: R 101 and Data Structure",
     "section": "",
-    "text": "Monday, September 9\n\nDASS. Chapter 1: pp. 14-21 (stop when you reach section 1.8).\n\n\n\nWednesday, September 11\n\nDASS. Chapter 1: pp. 21-26.\n\n\n\nFriday, September 13\n\nNo reading.\n\n\n\n\n\n\n\nDeadline\n\n\n\nProblem Set 1 due Friday, September 13, at 9:30 am on Canvas",
-    "crumbs": [
-      "Content",
-      "Week",
-      "Week 3: R 101 and Data Structure"
-    ]
+    "text": "Monday, September 9\n\nDASS. Chapter 1: pp. 14-21 (stop when you reach section 1.8).\n\n PDF of slides \n\n\nWednesday, September 11\n\nDASS. Chapter 1: pp. 21-26.\n\n PDF of slides \n\n\nFriday, September 13\n\nNo reading.\n\n\n\n\n\n\n\nDeadline\n\n\n\nProblem Set 1 due Friday, September 13, at 11:59 pm on Canvas"
   },
   {
     "objectID": "content/06-week6.html",
     "href": "content/06-week6.html",
     "title": "Week 6: Working with Survey Data (cont.)",
     "section": "",
-    "text": "Monday, September 30\n\nDASS. Chapter 3: pp. 66-76.\n\n\n\nWednesday, October 2\n\nDASS. Chapter 3: pp. 76-97.\n\n\n\nFriday, October 4\n\nNo reading\n\n\n\n\n\n\n\nDeadline\n\n\n\nProblem Set 4 due Friday, October 4, at 9:40 am on Canvas",
-    "crumbs": [
-      "Content",
-      "Week",
-      "Week 6: Working with Survey Data (cont.)"
-    ]
+    "text": "Monday, September 30\n\nDASS. Chapter 3: pp. 66-76.\n\n\n\nWednesday, October 2\n\nDASS. Chapter 3: pp. 76-97.\n\n\n\nFriday, October 4\n\nNo reading\n\n\n\n\n\n\n\nDeadline\n\n\n\nProblem Set 4 due Friday, October 4, at 9:40 am on Canvas"
   },
   {
     "objectID": "content/08-week8.html",
     "href": "content/08-week8.html",
     "title": "Week 8: Making Predictions with Linear Regression",
     "section": "",
-    "text": "Monday, October 14\nNO CLASS. Fall Break.\n\n\nWednesday, October 16\n\nDASS. Chapter 4: pp. 98-107.\n\n\n\nFriday, October 18\n\nDASS. Chapter 4: pp. 107-116.",
-    "crumbs": [
-      "Content",
-      "Week",
-      "Week 8: Making Predictions with Linear Regression"
-    ]
+    "text": "Monday, October 14\nNO CLASS. Fall Break.\n\n\nWednesday, October 16\n\nDASS. Chapter 4: pp. 98-107.\n\n\n\nFriday, October 18\n\nDASS. Chapter 4: pp. 107-116."
   },
   {
     "objectID": "content/07-week7.html",
     "href": "content/07-week7.html",
     "title": "Week 7: Midterm Exam",
     "section": "",
-    "text": "Monday, October 7\n\nBring questions for midterm review\n\n\n\nWednesday, October 9\n\nMidterm exam online. We will start in class.\n\n\n\nFriday, October 11\n\nNO CLASS. Tentatively",
-    "crumbs": [
-      "Content",
-      "Week",
-      "Week 7: Midterm Exam"
-    ]
+    "text": "Monday, October 7\n\nBring questions for midterm review\n\n\n\nWednesday, October 9\n\nMidterm exam online. We will start in class.\n\n\n\nFriday, October 11\n\nNO CLASS. Tentatively"
   },
   {
     "objectID": "content/16-week16.html",
     "href": "content/16-week16.html",
     "title": "Week 16: Review",
     "section": "",
-    "text": "Monday, December 9\n\nNo assigned reading.\n\n\n\nWednesday, December 11\n\nNo assigned reading.",
-    "crumbs": [
-      "Content",
-      "Week",
-      "Week 16: Review"
-    ]
+    "text": "Monday, December 9\n\nNo assigned reading.\n\n\n\nWednesday, December 11\n\nNo assigned reading."
   },
   {
     "objectID": "content/09-week9.html",
     "href": "content/09-week9.html",
     "title": "Week 9: Making Predictions with Linear Regression (cont.)",
     "section": "",
-    "text": "Monday, October 21\n\nDASS. Chapter 4: pp. 116-23, 126-8.\n\n\n\nWednesday, October 23\n\nNo assigned reading.\n\n\n\nFriday, October 25\n\nNo assigned reading.\n\n\n\n\n\n\n\nDeadline\n\n\n\nProblem Set 5 due Friday, October 25, at 9:40 am on Canvas",
-    "crumbs": [
-      "Content",
-      "Week",
-      "Week 9: Making Predictions with Linear Regression (cont.)"
-    ]
+    "text": "Monday, October 21\n\nDASS. Chapter 4: pp. 116-23, 126-8.\n\n\n\nWednesday, October 23\n\nNo assigned reading.\n\n\n\nFriday, October 25\n\nNo assigned reading.\n\n\n\n\n\n\n\nDeadline\n\n\n\nProblem Set 5 due Friday, October 25, at 9:40 am on Canvas"
   },
   {
     "objectID": "assignment/pset7.html",
     "href": "assignment/pset7.html",
     "title": "Problem Set 7",
     "section": "",
-    "text": "Important\n\n\n\nDue November 3rd at 11:59 pm on Canvas\nProblem Set 7 is posted on Canvas. You must use the provided RMarkdown file to complete this problem set.\nIf you have any issues using RMarkdown please see me in my office so we can make sure you can knit the file on your computer.",
-    "crumbs": [
-      "Assignments",
-      "Problem Sets",
-      "Problem Set 7"
-    ]
+    "text": "Important\n\n\n\nDue November 3rd at 11:59 pm on Canvas\nProblem Set 7 is posted on Canvas. You must use the provided RMarkdown file to complete this problem set.\nIf you have any issues using RMarkdown please see me in my office so we can make sure you can knit the file on your computer."
   },
   {
     "objectID": "assignment/pset7.html#purpose",
     "href": "assignment/pset7.html#purpose",
     "title": "Problem Set 7",
     "section": "Purpose",
-    "text": "Purpose\nThis problem set will help you practice:\n\nDetermining whether a study uses experimental or observational data\nIdentify the average treatment effect in a study\nAssess the internal and external validity of a study",
-    "crumbs": [
-      "Assignments",
-      "Problem Sets",
-      "Problem Set 7"
-    ]
+    "text": "Purpose\nThis problem set will help you practice:\n\nDetermining whether a study uses experimental or observational data\nIdentify the average treatment effect in a study\nAssess the internal and external validity of a study"
   },
   {
     "objectID": "assignment/pset7.html#criteria-for-success",
     "href": "assignment/pset7.html#criteria-for-success",
     "title": "Problem Set 7",
     "section": "Criteria for success",
-    "text": "Criteria for success\nIn addition to providing the correct code and/or answer, a successful problem set will:\n\nHave clear explanations that demonstrate your knowledge of the material",
-    "crumbs": [
-      "Assignments",
-      "Problem Sets",
-      "Problem Set 7"
-    ]
+    "text": "Criteria for success\nIn addition to providing the correct code and/or answer, a successful problem set will:\n\nHave clear explanations that demonstrate your knowledge of the material"
   },
   {
     "objectID": "assignment/pset7.html#footnotes",
     "href": "assignment/pset7.html#footnotes",
     "title": "Problem Set 7",
     "section": "Footnotes",
-    "text": "Footnotes\n\n\nThis route requires a few more tools. You need to install RMarkdown and TinyTeX. The upside? You can produce beautiful documents that show your code and output.↩︎",
-    "crumbs": [
-      "Assignments",
-      "Problem Sets",
-      "Problem Set 7"
-    ]
+    "text": "Footnotes\n\n\nThis route requires a few more tools. You need to install RMarkdown and TinyTeX. The upside? You can produce beautiful documents that show your code and output.↩︎"
   },
   {
     "objectID": "assignment/final.html",
     "href": "assignment/final.html",
     "title": "Final Exam",
     "section": "",
-    "text": "Important\n\n\n\nDue November 20th at 10:30 am on Canvas",
-    "crumbs": [
-      "Assignments",
-      "Exams",
-      "Final Exam"
-    ]
+    "text": "Important\n\n\n\nDue November 20th at 10:30 am on Canvas"
   },
   {
     "objectID": "assignment/final.html#purpose",
     "href": "assignment/final.html#purpose",
     "title": "Final Exam",
     "section": "Purpose",
-    "text": "Purpose",
-    "crumbs": [
-      "Assignments",
-      "Exams",
-      "Final Exam"
-    ]
+    "text": "Purpose"
   },
   {
     "objectID": "assignment/final.html#task",
     "href": "assignment/final.html#task",
     "title": "Final Exam",
     "section": "Task",
-    "text": "Task",
-    "crumbs": [
-      "Assignments",
-      "Exams",
-      "Final Exam"
-    ]
+    "text": "Task"
   },
   {
     "objectID": "assignment/final.html#criteria-for-success",
     "href": "assignment/final.html#criteria-for-success",
     "title": "Final Exam",
     "section": "Criteria for success",
-    "text": "Criteria for success\nIn addition to providing the correct code and/or answer, a successful problem set will:\n\nHave clear explanations that demonstrate your knowledge of the material\nUse the “comment out” function to explain what the code is doing",
-    "crumbs": [
-      "Assignments",
-      "Exams",
-      "Final Exam"
-    ]
+    "text": "Criteria for success\nIn addition to providing the correct code and/or answer, a successful problem set will:\n\nHave clear explanations that demonstrate your knowledge of the material\nUse the “comment out” function to explain what the code is doing"
   },
   {
     "objectID": "assignment/pset4.html",
     "href": "assignment/pset4.html",
     "title": "Problem Set 4",
     "section": "",
-    "text": "Important\n\n\n\nUPDATED: Due October 2nd at 11:59 pm on Canvas\nProblem Set 4 is posted on Canvas. You must use the provided RMarkdown file to complete this problem set.\nIf you have any issues using RMarkdown please see me in my office so we can make sure you can knit the file on your computer.",
-    "crumbs": [
-      "Assignments",
-      "Problem Sets",
-      "Problem Set 4"
-    ]
+    "text": "Important\n\n\n\nUPDATED: Due October 2nd at 11:59 pm on Canvas\nProblem Set 4 is posted on Canvas. You must use the provided RMarkdown file to complete this problem set.\nIf you have any issues using RMarkdown please see me in my office so we can make sure you can knit the file on your computer."
   },
   {
     "objectID": "assignment/pset4.html#purpose",
     "href": "assignment/pset4.html#purpose",
     "title": "Problem Set 4",
     "section": "Purpose",
-    "text": "Purpose\nThis fourth problem set will help you practice:\n\nSetting the working directory\nLoading data into R\nConducting univariate analyses to understand the variables in the dataset\nConducting bivariate analyses to understand the relationship between two variables\n\nYou will use the following commands:\n\n# From the previous problem sets\nsetwd()\n\nread.csv()\n\n# New in this problem set\n\nhist()\n\nplot()\n\ncor()",
-    "crumbs": [
-      "Assignments",
-      "Problem Sets",
-      "Problem Set 4"
-    ]
+    "text": "Purpose\nThis fourth problem set will help you practice:\n\nSetting the working directory\nLoading data into R\nConducting univariate analyses to understand the variables in the dataset\nConducting bivariate analyses to understand the relationship between two variables\n\nYou will use the following commands:\n\n# From the previous problem sets\nsetwd()\n\nread.csv()\n\n# New in this problem set\n\nhist()\n\nplot()\n\ncor()"
   },
   {
     "objectID": "assignment/pset4.html#criteria-for-success",
     "href": "assignment/pset4.html#criteria-for-success",
     "title": "Problem Set 4",
     "section": "Criteria for success",
-    "text": "Criteria for success\nIn addition to providing the correct code and/or answer, a successful problem set will:\n\nHave clear explanations that demonstrate your knowledge of the material\nUse the “comment out” function to explain what the code is doing",
-    "crumbs": [
-      "Assignments",
-      "Problem Sets",
-      "Problem Set 4"
-    ]
+    "text": "Criteria for success\nIn addition to providing the correct code and/or answer, a successful problem set will:\n\nHave clear explanations that demonstrate your knowledge of the material\nUse the “comment out” function to explain what the code is doing"
   },
   {
     "objectID": "assignment/pset4.html#footnotes",
     "href": "assignment/pset4.html#footnotes",
     "title": "Problem Set 4",
     "section": "Footnotes",
-    "text": "Footnotes\n\n\nThis route requires a few more tools. You need to install RMarkdown and TinyTeX. The upside? You can produce beautiful documents that show your code and output.↩︎",
-    "crumbs": [
-      "Assignments",
-      "Problem Sets",
-      "Problem Set 4"
-    ]
+    "text": "Footnotes\n\n\nThis route requires a few more tools. You need to install RMarkdown and TinyTeX. The upside? You can produce beautiful documents that show your code and output.↩︎"
   },
   {
     "objectID": "assignment/pset3.html",
     "href": "assignment/pset3.html",
     "title": "Problem Set 3",
     "section": "",
-    "text": "Important\n\n\n\nDue September 22nd at 10:30 am on Canvas\nProblem Set 3 is posted on Canvas. You must use the provided RMarkdown file to complete this problem set.\nIf you have any issues using RMarkdown please see me in my office so we can make sure you can knit the file on your computer.",
-    "crumbs": [
-      "Assignments",
-      "Problem Sets",
-      "Problem Set 3"
-    ]
+    "text": "Important\n\n\n\nDue September 22nd at 10:30 am on Canvas\nProblem Set 3 is posted on Canvas. You must use the provided RMarkdown file to complete this problem set.\nIf you have any issues using RMarkdown please see me in my office so we can make sure you can knit the file on your computer."
   },
   {
     "objectID": "assignment/pset3.html#purpose",
     "href": "assignment/pset3.html#purpose",
     "title": "Problem Set 3",
     "section": "Purpose",
-    "text": "Purpose\nThis third problem set will help you practice:\n\nSetting the working directory\nLoading data into R\nComputing and interpreting the mean of a variable for different subsets of a sample\nEstimating the average treatment effect for a randomized experiment\n\nYou will use the following commands:\n\n# From the previous problem sets\nsetwd()\n\nread.csv()\n\nmean()\n\n# New in this problem set\n\n# Subsetting data; for example:\ndata$var1[data$var2==1]",
-    "crumbs": [
-      "Assignments",
-      "Problem Sets",
-      "Problem Set 3"
-    ]
+    "text": "Purpose\nThis third problem set will help you practice:\n\nSetting the working directory\nLoading data into R\nComputing and interpreting the mean of a variable for different subsets of a sample\nEstimating the average treatment effect for a randomized experiment\n\nYou will use the following commands:\n\n# From the previous problem sets\nsetwd()\n\nread.csv()\n\nmean()\n\n# New in this problem set\n\n# Subsetting data; for example:\ndata$var1[data$var2==1]"
   },
   {
     "objectID": "assignment/pset3.html#criteria-for-success",
     "href": "assignment/pset3.html#criteria-for-success",
     "title": "Problem Set 3",
     "section": "Criteria for success",
-    "text": "Criteria for success\nIn addition to providing the correct code and/or answer, a successful problem set will:\n\nHave clear explanations that demonstrate your knowledge of the material\nUse the “comment out” function to explain what the code is doing",
-    "crumbs": [
-      "Assignments",
-      "Problem Sets",
-      "Problem Set 3"
-    ]
+    "text": "Criteria for success\nIn addition to providing the correct code and/or answer, a successful problem set will:\n\nHave clear explanations that demonstrate your knowledge of the material\nUse the “comment out” function to explain what the code is doing"
   },
   {
     "objectID": "assignment/pset3.html#footnotes",
     "href": "assignment/pset3.html#footnotes",
     "title": "Problem Set 3",
     "section": "Footnotes",
-    "text": "Footnotes\n\n\nThis route requires a few more tools. You need to install RMarkdown and TinyTeX. The upside? You can produce beautiful documents that show your code and output.↩︎",
-    "crumbs": [
-      "Assignments",
-      "Problem Sets",
-      "Problem Set 3"
-    ]
+    "text": "Footnotes\n\n\nThis route requires a few more tools. You need to install RMarkdown and TinyTeX. The upside? You can produce beautiful documents that show your code and output.↩︎"
   },
   {
     "objectID": "assignment/pset2.html",
     "href": "assignment/pset2.html",
     "title": "Problem Set 2",
     "section": "",
-    "text": "Important\n\n\n\nUPDATED: Due September 15th at 11:59 pm on Canvas\nProblem Set 2 is posted on Canvas. You have two options for how to complete the assignment.",
-    "crumbs": [
-      "Assignments",
-      "Problem Sets",
-      "Problem Set 2"
-    ]
+    "text": "Important\n\n\n\nUPDATED: Due September 15th at 11:59 pm on Canvas\nProblem Set 2 is posted on Canvas. You have two options for how to complete the assignment."
   },
   {
     "objectID": "assignment/pset2.html#purpose",
     "href": "assignment/pset2.html#purpose",
     "title": "Problem Set 2",
     "section": "Purpose",
-    "text": "Purpose\nThis second problem set will help you practice:\n\nSetting the working directory\nLoading data into R\nComputing and interpreting the mean of a variable\nIdentifying treatment and outcome variables in a dataset\n\nYou will use the following commands:\n\n# From the previous problem set\nsetwd()\n\nread.csv()\n\n# New in this problem set\nmean()",
-    "crumbs": [
-      "Assignments",
-      "Problem Sets",
-      "Problem Set 2"
-    ]
+    "text": "Purpose\nThis second problem set will help you practice:\n\nSetting the working directory\nLoading data into R\nComputing and interpreting the mean of a variable\nIdentifying treatment and outcome variables in a dataset\n\nYou will use the following commands:\n\n# From the previous problem set\nsetwd()\n\nread.csv()\n\n# New in this problem set\nmean()"
   },
   {
     "objectID": "assignment/pset2.html#criteria-for-success",
     "href": "assignment/pset2.html#criteria-for-success",
     "title": "Problem Set 2",
     "section": "Criteria for success",
-    "text": "Criteria for success\nIn addition to providing the correct code and/or answer, a successful problem set will:\n\nHave clear explanations that demonstrate your knowledge of the material\nUse the “comment out” function to explain what the code is doing",
-    "crumbs": [
-      "Assignments",
-      "Problem Sets",
-      "Problem Set 2"
-    ]
+    "text": "Criteria for success\nIn addition to providing the correct code and/or answer, a successful problem set will:\n\nHave clear explanations that demonstrate your knowledge of the material\nUse the “comment out” function to explain what the code is doing"
   },
   {
     "objectID": "assignment/pset2.html#footnotes",
     "href": "assignment/pset2.html#footnotes",
     "title": "Problem Set 2",
     "section": "Footnotes",
-    "text": "Footnotes\n\n\nThis route requires a few more tools. You need to install RMarkdown and TinyTeX. The upside? You can produce beautiful documents that show your code and output.↩︎",
-    "crumbs": [
-      "Assignments",
-      "Problem Sets",
-      "Problem Set 2"
-    ]
+    "text": "Footnotes\n\n\nThis route requires a few more tools. You need to install RMarkdown and TinyTeX. The upside? You can produce beautiful documents that show your code and output.↩︎"
   },
   {
     "objectID": "assignment/pset9.html",
     "href": "assignment/pset9.html",
     "title": "Problem Set 9",
     "section": "",
-    "text": "Important\n\n\n\nDue November 20th at 11:59 pm on Canvas\nProblem Set 9 is posted on Canvas. If you have any issues using RMarkdown please see me in my office so we can make sure you can knit the file on your computer.",
-    "crumbs": [
-      "Assignments",
-      "Problem Sets",
-      "Problem Set 9"
-    ]
+    "text": "Important\n\n\n\nDue November 20th at 11:59 pm on Canvas\nProblem Set 9 is posted on Canvas. If you have any issues using RMarkdown please see me in my office so we can make sure you can knit the file on your computer."
   },
   {
     "objectID": "assignment/pset9.html#purpose",
     "href": "assignment/pset9.html#purpose",
     "title": "Problem Set 9",
     "section": "Purpose",
-    "text": "Purpose\nThis problem set will help you asses your knowledge about:\n\nHypothesis testing\nP-values\nUsing linear regression to estimate causal effects",
-    "crumbs": [
-      "Assignments",
-      "Problem Sets",
-      "Problem Set 9"
-    ]
+    "text": "Purpose\nThis problem set will help you asses your knowledge about:\n\nHypothesis testing\nP-values\nUsing linear regression to estimate causal effects"
   },
   {
     "objectID": "assignment/pset9.html#criteria-for-success",
     "href": "assignment/pset9.html#criteria-for-success",
     "title": "Problem Set 9",
     "section": "Criteria for success",
-    "text": "Criteria for success\nIn addition to providing the correct code and/or answer, a successful problem set will:\n\nHave clear explanations that demonstrate your knowledge of the material\nUse the “comment out” function to explain what the code is doing",
-    "crumbs": [
-      "Assignments",
-      "Problem Sets",
-      "Problem Set 9"
-    ]
+    "text": "Criteria for success\nIn addition to providing the correct code and/or answer, a successful problem set will:\n\nHave clear explanations that demonstrate your knowledge of the material\nUse the “comment out” function to explain what the code is doing"
   },
   {
     "objectID": "index.html",
@@ -814,7 +494,7 @@
     "href": "index.html#work-and-assessment",
     "title": "POL 226: Approaches to Political Science and International Relations",
     "section": "Work and Assessment",
-    "text": "Work and Assessment\n\nCourse Expectations\nStudents are expected to attend class and participate in class discussions and exercises. I expected you will have completed all readings prior to class and will come prepared with questions.\n\n\nCourse Workload\nThis is a 4-credit hour course, meaning that you are expected to spend 12 hours of work each week (including the 3 hours spent in the classroom). This roughly means that you will spend about 2 hours on readings for each class period, and 3 hours each week working on the different assignments (pace yourself!).\n\n\nAssignments and grades\nFinal course grades will be assigned as follows:\n\n\n\n\n\n\n\n\n\n\n\n\n\nGrade\nRange\nGrade\nRange\n\n\n\n\nA\n93–100%\nC\n73–76%\n\n\nA−\n90–92%\nC−\n70–72%\n\n\nB+\n87–89%\nD+\n67–69%\n\n\nB\n83–86%\nD\n63–66%\n\n\nB−\n80–82%\nD−\n60–62%\n\n\nC+\n77–79%\nF\n&lt; 60%\n\n\n\n\n\n\nFinal grades will be calculated based on the following components:\nParticipation (10%): All students are expected to be active participants in the class. The participation score will be determined through in-class quizzes and exercises.\n\n\nAttendance policy:\n\nAttendance is part of your participation grade, and while there is no separate grade for attendance it is a prerequisite for in-class participation. That said, to accommodate unforeseeable circumstances, you have two unexcused absences that will not affect your participation grade. Please let the instructor know about any excused absences you anticipate during the semester. It is important to keep up with class material as each portion of the course builds on previous sections.\n\nProblem Sets (40%): You will complete nine problem sets throughout the semester. These problem sets will help you practice the concepts and data analysis skills we learn in class. You will have about a week to complete each problem set. I encourage you to work together with other students, but the final product should be your own work. Problem sets are due at the beginning of the class period indicated on the schedule.\nMidterm and Final Exam (25% each): The midterm and final exam will be similar in structure to the weekly problem sets. For these exams, you will be working with some popular survey data that social scientists collect with regularity, such as the General Social Survey and American National Election Study datasets. No collaboration is permitted for the exams. However, students are allowed to use a single letter-sized sheet of hand-written notes (two-sided). Both midterm and final exams will be administered via Canvas.\nExtra Credit Opportunity: There is an additional problem set you can complete for extra credit. This can add a maximum of 3.5 percentage points to your final grade."
+    "text": "Work and Assessment\n\nCourse Expectations\nStudents are expected to attend class and participate in class discussions and exercises. I expected you will have completed all readings prior to class and will come prepared with questions.\n\n\nCourse Workload\nThis is a 4-credit hour course, meaning that you are expected to spend 12 hours of work each week (including the 3 hours spent in the classroom). This roughly means that you will spend about 2 hours on readings for each class period, and 3 hours each week working on the different assignments (pace yourself!).\n\n\nAssignments and grades\nFinal course grades will be assigned as follows:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGrade\nRange\nGrade\nRange\n\n\n\n\nA\n93–100%\nC\n73–76%\n\n\nA−\n90–92%\nC−\n70–72%\n\n\nB+\n87–89%\nD+\n67–69%\n\n\nB\n83–86%\nD\n63–66%\n\n\nB−\n80–82%\nD−\n60–62%\n\n\nC+\n77–79%\nF\n&lt; 60%\n\n\n\n\n\n\nFinal grades will be calculated based on the following components:\nParticipation (10%): All students are expected to be active participants in the class. The participation score will be determined through in-class quizzes and exercises.\n\n\nAttendance policy:\n\nAttendance is part of your participation grade, and while there is no separate grade for attendance it is a prerequisite for in-class participation. That said, to accommodate unforeseeable circumstances, you have two unexcused absences that will not affect your participation grade. Please let the instructor know about any excused absences you anticipate during the semester. It is important to keep up with class material as each portion of the course builds on previous sections.\n\nProblem Sets (40%): You will complete nine problem sets throughout the semester. These problem sets will help you practice the concepts and data analysis skills we learn in class. You will have about a week to complete each problem set. I encourage you to work together with other students, but the final product should be your own work. Problem sets are due at the beginning of the class period indicated on the schedule.\nMidterm and Final Exam (25% each): The midterm and final exam will be similar in structure to the weekly problem sets. For these exams, you will be working with some popular survey data that social scientists collect with regularity, such as the General Social Survey and American National Election Study datasets. No collaboration is permitted for the exams. However, students are allowed to use a single letter-sized sheet of hand-written notes (two-sided). Both midterm and final exams will be administered via Canvas.\nExtra Credit Opportunity: There is an additional problem set you can complete for extra credit. This can add a maximum of 3.5 percentage points to your final grade."
   },
   {
     "objectID": "index.html#collaboration-policy",
@@ -884,23 +564,13 @@
     "href": "resource/index.html",
     "title": "Resources",
     "section": "",
-    "text": "There are many resources online, such as online forums, that can help you as you learn to code. In fact, experienced quantitative researchers use them all the time! You are not expected to remember how to code every single task off the top of your head. You just have to know how to look things up. Googling is the first step.\nSome of the forums/websites you may find useful are:\n\nStack Overflow\nStack Exchange\nW3 Schools\n\n\nOn this section of the website, you can also find a guide to installing R and RStudio on your computer.",
-    "crumbs": [
-      "Resources",
-      "Overview",
-      "Resources"
-    ]
+    "text": "There are many resources online, such as online forums, that can help you as you learn to code. In fact, experienced quantitative researchers use them all the time! You are not expected to remember how to code every single task off the top of your head. You just have to know how to look things up. Googling is the first step.\nSome of the forums/websites you may find useful are:\n\nStack Overflow\nStack Exchange\nW3 Schools\n\n\nOn this section of the website, you can also find a guide to installing R and RStudio on your computer."
   },
   {
     "objectID": "resource/r.html",
     "href": "resource/r.html",
     "title": "Installing R",
     "section": "",
-    "text": "In this class, you will learn how to use R and RMarkdown. You will need to install a few things so that you can use the RMarkdown files I will provide for the problem sets. At the end of this guide, you should be able to create a PDF using this Rmarkdown file.\nWe will install the following (in this order):\n\nThe R language\nRStudio\nRMarkdown\nTinytex\n\n\nInstalling R\nTo install R, go to https://cran.rstudio.com/.\nNow, click on the corresponding download link for your operating system:\n\nFor Windows: install the “base” distribution. As the website says, you should install this if it is the first time installing R.\nFor MacOS: there are different binaries (or versions) for Mac, and the correct one depends on your operating system and computer processor.\n\nIf your computer is running Big Sur or higher (you can check your operating system by clicking on the Apple logo on the menu bar and then on “About This Mac”), then you can install the most recent version of R. Otherwise, look for the appropriate version under “Binaries for legacy MacOS/OS X systems.”\nIf you have a Mac with Apple silicon (M1, M2, or M3), install the package that says “arm64.” If your Mac is running on an Intel chip, install the version that says “x86_64.”\n\n\nOnce downloaded, install R.\n\n\nInstalling RStudio\nTo interact with R, we will use RStudio, which you can find at https://posit.co/download/rstudio-desktop/. The page may prompt you to install R, but since you have already done this, just click on the button to download RStudio Desktop for your operating system.\nOnce downloaded, install RStudio.\n\n\nInstalling RMarkdown and TinyTex\nCongrats! You now have R and RStudio installed in your computer. It’s time to install RMarkdown and TinyTex so that you can render RMardown files as a PDF (which you will use for your problem sets).\nOpen RStudio. Copy and paste the following line of code into the console, then press Enter.\n\ninstall.packages(\"rmarkdown\")\n\nOnce RMarkdown is finished installing, copy and paste the following line of code into the console, then press Enter.\n\ninstall.packages('tinytex')\n\n\n\nTesting Our Installation\nIt’s time to make sure everything is working properly. Download this file and “knit” it. The first PDF you create with RMarkdown might take some time. Afterward, it will run much faster.",
-    "crumbs": [
-      "Resources",
-      "Overview",
-      "Installing R"
-    ]
+    "text": "In this class, you will learn how to use R and RMarkdown. You will need to install a few things so that you can use the RMarkdown files I will provide for the problem sets. At the end of this guide, you should be able to create a PDF using this Rmarkdown file.\nWe will install the following (in this order):\n\nThe R language\nRStudio\nRMarkdown\nTinytex\n\n\nInstalling R\nTo install R, go to https://cran.rstudio.com/.\nNow, click on the corresponding download link for your operating system:\n\nFor Windows: install the “base” distribution. As the website says, you should install this if it is the first time installing R.\nFor MacOS: there are different binaries (or versions) for Mac, and the correct one depends on your operating system and computer processor.\n\nIf your computer is running Big Sur or higher (you can check your operating system by clicking on the Apple logo on the menu bar and then on “About This Mac”), then you can install the most recent version of R. Otherwise, look for the appropriate version under “Binaries for legacy MacOS/OS X systems.”\nIf you have a Mac with Apple silicon (M1, M2, or M3), install the package that says “arm64.” If your Mac is running on an Intel chip, install the version that says “x86_64.”\n\n\nOnce downloaded, install R.\n\n\nInstalling RStudio\nTo interact with R, we will use RStudio, which you can find at https://posit.co/download/rstudio-desktop/. The page may prompt you to install R, but since you have already done this, just click on the button to download RStudio Desktop for your operating system.\nOnce downloaded, install RStudio.\n\n\nInstalling RMarkdown and TinyTex\nCongrats! You now have R and RStudio installed in your computer. It’s time to install RMarkdown and TinyTex so that you can render RMardown files as a PDF (which you will use for your problem sets).\nOpen RStudio. Copy and paste the following line of code into the console, then press Enter.\n\ninstall.packages(\"rmarkdown\")\n\nOnce RMarkdown is finished installing, copy and paste the following line of code into the console, then press Enter.\n\ninstall.packages('tinytex')\n\n\n\nTesting Our Installation\nIt’s time to make sure everything is working properly. Download this file and “knit” it. The first PDF you create with RMarkdown might take some time. Afterward, it will run much faster."
   }
 ]

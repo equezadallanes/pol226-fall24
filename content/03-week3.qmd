@@ -16,11 +16,27 @@ title: "Week 3: R 101 and Data Structure"
 - *DASS.* Chapter 1: pp. 14-21 (stop when you reach section 1.8).
 
 
+::: {.content-visible when-format="html"}
+
+ 
+[<span class="btn btn-danger">{{< fa file-pdf >}} PDF of slides </span></p>](https://agnesscott.instructure.com/files/732873/)
+
+:::
+
+
 
 ### Wednesday, September 11
 
 - *DASS.* Chapter 1: pp. 21-26.
  
+
+::: {.content-visible when-format="html"}
+
+ 
+[<span class="btn btn-danger">{{< fa file-pdf >}} PDF of slides </span></p>](https://agnesscott.instructure.com/files/732874/)
+
+:::
+
 
 ### Friday, September 13
 
@@ -30,7 +46,7 @@ title: "Week 3: R 101 and Data Structure"
 
 ### Deadline
 
-[Problem Set 1](/assignment/pset1.qmd) due Friday, September 13, at 9:30 am on Canvas
+[Problem Set 1](/assignment/pset1.qmd) due Friday, September 13, at 11:59 pm on Canvas
 
 :::
 
