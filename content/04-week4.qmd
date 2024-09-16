@@ -31,7 +31,7 @@ title: "Week 4: How Experiments Work"
 
 ### Deadline
 
-[Problem Set 2](/assignment/pset2.qmd) due Friday, September 20, at 9:40 am on Canvas
+[Problem Set 2](/assignment/pset2.qmd) due Friday, September 20, at 11:59 pm (updated) on Canvas
 
 :::
 
