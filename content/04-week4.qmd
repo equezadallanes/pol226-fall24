@@ -16,15 +16,37 @@ title: "Week 4: How Experiments Work"
 - *DASS.* Chapter 2: pp. 27-38.
 
 
+::: {.content-visible when-format="html"}
+
+ 
+[<span class="btn btn-danger">{{< fa file-pdf >}} PDF of slides </span></p>](https://agnesscott.instructure.com/files/736197/)
+
+:::
+
 
 ### Wednesday, September 18
 
 - *DASS.* Chapter 2: pp. 39-50.
 
 
+::: {.content-visible when-format="html"}
+
+ 
+[<span class="btn btn-danger">{{< fa file-pdf >}} PDF of slides </span></p>](https://agnesscott.instructure.com/files/738001/)
+
+:::
+
+
 ### Friday, September 20
 
 - No reading.
+
+::: {.content-visible when-format="html"}
+
+ 
+[<span class="btn btn-danger">{{< fa file-pdf >}} PDF of slides </span></p>](https://agnesscott.instructure.com/files/741385/)
+
+:::
 
 
 :::{.callout-important}

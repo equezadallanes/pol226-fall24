@@ -16,10 +16,26 @@ title: "Week 5: Working with Survey Data"
 - *DASS.* Chapter 3: pp. 51-54.
 
 
+::: {.content-visible when-format="html"}
+
+ 
+[<span class="btn btn-danger">{{< fa file-pdf >}} PDF of slides </span></p>](https://agnesscott.instructure.com/files/742289/)
+
+:::
+
 
 ### Wednesday, September 25
 
 - *DASS.* Chapter 3: pp. 55-66.
+
+
+::: {.content-visible when-format="html"}
+
+ 
+[<span class="btn btn-danger">{{< fa file-pdf >}} PDF of slides </span></p>](https://agnesscott.instructure.com/files/742290/)
+
+:::
+
 
 
 ### Friday, September 27
