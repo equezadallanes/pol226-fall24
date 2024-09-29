@@ -347,7 +347,7 @@
     "href": "content/05-week5.html",
     "title": "Week 5: Working with Survey Data",
     "section": "",
-    "text": "Monday, September 23\n\nDASS. Chapter 3: pp. 51-54.\n\n PDF of slides \n\n\nWednesday, September 25\n\nDASS. Chapter 3: pp. 55-66.\n\n PDF of slides \n\n\nFriday, September 27\n\nNo reading\n\n\n\n\n\n\n\nDeadline\n\n\n\nProblem Set 3 due Friday, September 27, at 11:59 pm (updated) on Canvas",
+    "text": "Monday, September 23\n\nDASS. Chapter 3: pp. 51-54.\n\n PDF of slides \n\n\nWednesday, September 25\n\nDASS. Chapter 3: pp. 55-66.\n\n PDF of slides \n\n\nFriday, September 27\n\nNo reading\n\n PDF of slides \n\n\n\n\n\n\nDeadline\n\n\n\nProblem Set 3 due Friday, September 27, at 11:59 pm (updated) on Canvas",
     "crumbs": [
       "Content",
       "Week",
@@ -443,7 +443,7 @@
     "href": "content/06-week6.html",
     "title": "Week 6: Working with Survey Data (cont.)",
     "section": "",
-    "text": "Monday, September 30\n\nDASS. Chapter 3: pp. 66-76.\n\n\n\nWednesday, October 2\n\nDASS. Chapter 3: pp. 76-97.\n\n\n\nFriday, October 4\n\nNo reading\n\n\n\n\n\n\n\nDeadline\n\n\n\nProblem Set 4 due Friday, October 4, at 9:40 am on Canvas",
+    "text": "Monday, September 30\n\nDASS. Chapter 3: pp. 66-76.\n\n\n\nWednesday, October 2\n\nDASS. Chapter 3: pp. 76-97.\n\n\n\nFriday, October 4\n\nNo reading\n\n\n\n\n\n\n\nDeadline\n\n\n\nProblem Set 4 due Friday, October 4, at 11:59 pm (updated) on Canvas",
     "crumbs": [
       "Content",
       "Week",
@@ -624,18 +624,6 @@
     "title": "Problem Set 4",
     "section": "Criteria for success",
     "text": "Criteria for success\nIn addition to providing the correct code and/or answer, a successful problem set will:\n\nHave clear explanations that demonstrate your knowledge of the material\nUse the “comment out” function to explain what the code is doing",
-    "crumbs": [
-      "Assignments",
-      "Problem Sets",
-      "Problem Set 4"
-    ]
-  },
-  {
-    "objectID": "assignment/pset4.html#footnotes",
-    "href": "assignment/pset4.html#footnotes",
-    "title": "Problem Set 4",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nThis route requires a few more tools. You need to install RMarkdown and TinyTeX. The upside? You can produce beautiful documents that show your code and output.↩︎",
     "crumbs": [
       "Assignments",
       "Problem Sets",

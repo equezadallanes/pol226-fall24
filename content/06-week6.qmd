@@ -32,7 +32,7 @@ title: "Week 6: Working with Survey Data (cont.)"
 
 ### Deadline
 
-[Problem Set 4](/assignment/pset4.qmd) due Friday, October 4, at 9:40 am on Canvas
+[Problem Set 4](/assignment/pset4.qmd) due Friday, October 4, at 11:59 pm (updated) on Canvas
 
 :::
 

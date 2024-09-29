@@ -8,14 +8,14 @@ UPDATED: Due October 2nd at 11:59 pm on Canvas
 
 Problem Set 4 is posted on Canvas. You must use the provided RMarkdown file to complete this problem set.
 
-- Use the RMarkdown file provided (.Rmd extension) and write your answers and code in the spaces provided. Submit the PDF that is "knitted" (1 file).^[This route requires a few more tools. You need to install [RMarkdown](https://rmarkdown.rstudio.com/lesson-1.html) and [TinyTeX](https://yihui.org/tinytex/). The upside? You can produce beautiful documents that show your code and output.]
+- Use the RMarkdown file provided (.Rmd extension) and write your answers and code in the spaces provided. Submit the PDF that is "knitted."
 
 If you have any issues using RMarkdown please see me in my office so we can make sure you can knit the file on your computer.
 
 ### Files
 
-1. [Problem Set - PDF](https://agnesscott.instructure.com/files/590456/)
-2. [RMardown file](https://agnesscott.instructure.com/files/590455/)
+1. [Problem Set - PDF](https://agnesscott.instructure.com/files/743373/)
+2. [RMardown file](https://agnesscott.instructure.com/files/743372/)
 
 
 

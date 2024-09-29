@@ -42,6 +42,15 @@ title: "Week 5: Working with Survey Data"
 
 - No reading
 
+
+::: {.content-visible when-format="html"}
+
+ 
+[<span class="btn btn-danger">{{< fa file-pdf >}} PDF of slides </span></p>](https://agnesscott.instructure.com/files/743381/)
+
+:::
+
+
 :::{.callout-important}
 
 ### Deadline
