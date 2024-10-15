@@ -13,13 +13,13 @@ title: "Week 9: Making Predictions with Linear Regression (cont.)"
 
 ### Monday, October 21
 
-- *DASS.* Chapter 4: pp. 116-23, 126-8.
+- *DASS.* Chapter 4: pp. 107-116.
 
 
 
 ### Wednesday, October 23
 
-- No assigned reading.
+- *DASS.* Chapter 4: pp. 116-23, 126-8.
 
 
 
