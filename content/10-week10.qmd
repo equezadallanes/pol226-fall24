@@ -32,7 +32,7 @@ title: "Week 10: Observational Studies"
 
 ### Deadline
 
-[Problem Set 6](/assignment/pset6.qmd) due Friday, October 25, at 9:40 am on Canvas
+[Problem Set 6](/assignment/pset6.qmd) due Friday, November 1, at 11:59 pm on Canvas
 
 :::
 

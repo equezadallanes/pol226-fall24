@@ -32,7 +32,7 @@ title: "Week 11: Probability"
 
 ### Deadline
 
-[Problem Set 7](/assignment/pset7.qmd) due Friday, November 8, at 9:40 am on Canvas
+[Problem Set 7](/assignment/pset7.qmd) due Friday, November 8, at 11:59 pm on Canvas
 
 :::
 

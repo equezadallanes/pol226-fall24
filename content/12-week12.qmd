@@ -32,7 +32,7 @@ title: "Week 12: Probability"
 
 ### Deadline
 
-[Problem Set 8](/assignment/pset8.qmd) due Friday, November 15, at 9:40 am on Canvas
+[Problem Set 8](/assignment/pset8.qmd) due Friday, November 15, at 11:59 pm on Canvas
 
 :::
 

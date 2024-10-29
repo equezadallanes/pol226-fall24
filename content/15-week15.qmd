@@ -29,7 +29,7 @@ title: "Week 15: Dealing with Uncertainty"
 
 ### Deadline
 
-[Extra Credit Problem Set](/assignment/pset-extra.qmd) due Friday, December 6, at 9:40 am on Canvas
+[Extra Credit Problem Set](/assignment/pset-extra.qmd) due Friday, December 6, at 11:59 pm on Canvas
 
 :::
 
