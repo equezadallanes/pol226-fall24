@@ -29,8 +29,9 @@ title: "Week 13: Dealing with Uncertainty"
 
 :::{.callout-important}
 
+
 ### Deadline
 
-[Problem Set 9](/assignment/pset9.qmd) due Friday, November 15, at 11:59 pm on Canvas
+UPDATED: [Problem Set 9](/assignment/pset9.qmd) due Monday, November 25, at 11:59 pm on Canvas
 
 :::
