@@ -9,3 +9,8 @@ The following two readings can help you read these pieces more efficiently.
 1. Burke, Timothy. “How to Read in College.” Blog post. [{{< fa arrow-up-right-from-square >}}](https://blogs.swarthmore.edu/burke/permanent-features-advice-on-academia/how-to-read-in-college/)
 2. Hoover Green, Amelia. 2013. "How to Read Political Science: A Guide in Four Steps." [{{< fa file-pdf >}}](https://calgara.github.io/Pol157_Spring2019/howtoread.pdf)
 
+
+This article offers a good introduction to reading a regression table:
+
+1. Miller, Steven V. “Reading a Regression Table: A Guide for Students.” Blog post. [{{< fa arrow-up-right-from-square >}}](https://svmiller.com/blog/2014/08/reading-a-regression-table-a-guide-for-students/)
+
